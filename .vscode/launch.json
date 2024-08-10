@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PagamentoSimplesApplication",
+            "request": "launch",
+            "mainClass": "gui.pagamentoSimples.pagamentoSimples.PagamentoSimplesApplication"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PagamentoSimplesApplication<picpay>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "gui.pagamentoSimples.pagamentoSimples.PagamentoSimplesApplication",
+            "projectName": "picpay",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
