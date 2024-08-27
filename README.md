@@ -6,7 +6,6 @@
 <br />
 <div align="center">
 
-  <img src="pawHand/src/assets/Logo.png" height="80"/>
   <h3 align="center">Simple Payment</h3>
 
   <p align="center">
@@ -38,7 +37,7 @@
 
 ### 📋 Pré-requisitos
 
-  É necessário ter npm e node instalados no computador
+  É necessário ter docker instalado na máquina 
 
 ### 🔧 Instalação
 
